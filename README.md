@@ -1,6 +1,8 @@
 # Hello World Chrome Extension
 A simple Chrome extension that displays "Hello world of Extensions" when clicked.
 
+![alt text](image.png)
+
 ## Description
 This is a basic Chrome extension built following the official Chrome Extensions tutorial. It demonstrates the fundamental structure of a Chrome extension by showing a greeting message when the user clicks on the extension icon.
 
